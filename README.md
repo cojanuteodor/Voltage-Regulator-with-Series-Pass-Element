@@ -1,7 +1,7 @@
 # Voltage Regulator with Series Pass Element
 
 
-## Specifications (N = 5)
+## Specifications
 - Adjustable output voltage: 2.5 V – 5 V  
 - Input voltage range: 9 V – 10 V  
 - Load resistance: 250 Ω  
